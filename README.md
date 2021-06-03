@@ -1,6 +1,6 @@
 # E-commerce-data-analysis
 ### This is the Exploratory data analysis of ecommerce  UK retailers. the data preprocessing  and visualization is done by python
-** Context of Data **
+**Context of Data**
 * Company - UK-based and registered non-store online retail
 * Products for selling - Mainly all-occasion gifts
 * Customers - Most are wholesalers (local or international)
